@@ -6,7 +6,7 @@ A simple Java console project that lets users **register, login securely**, and 
 - Secure Login with 3-attempt limit
 - Password strength check (capital, small, digit, special character)
 - User data saved in a text file (local file handling)
-- Menu includes: Calculator, Factorial, Fibonacci generator
+- Menu includes: Calculator, Factorial, Fibonacci generator, Basic Arithmetic operations.
 - Easy to navigate, retry, and exit
 
 ## Why This Project?
